@@ -1,0 +1,11 @@
+.idea/
+Flutter/.idea
+Flutter/.dart_tool/
+Flutter/build/
+Flutter/.flutter-plugins
+Flutter/.flutter-plugins-dependencies
+NodeJS/.idea
+NodeJS/package-lock.json
+NodeJS/node_modules
+NodeJS/firebase/firebaseKey.json
+Flutter/android/app/google-services.json

@@ -1,0 +1,83 @@
+﻿Summary,Issue Type,Status,Project name,Custom field (Start date),Due date,Description,Parent summary,Status Category
+Adding videos to exercises,Task,To Do,Final Project (IO-FIT),,,"As a user, I want to watch instructional videos so that I can learn how to perform the exercises correctly.
+
+*Sub task*
+
+* for each exercise page find a short video that explains how to preform the exercise and put a reference to it in the page.",Exercises library,To Do
+Architecture,Task,In Progress,Final Project (IO-FIT),25/05/2024 00:00,,,,In Progress
+Changing number of sets and weights,Task,To Do,Final Project (IO-FIT),,,"As a user i want to be able to change the weights and the number of sets so that the plan will suit my performance.
+
+*Sub task*
+
+* Add to each exercise in the list a button. when click it lets you to edit the number of reps and the weights.",customized workout plan,To Do
+Configuring Firebase,Task,In Progress,Final Project (IO-FIT),,,,,In Progress
+Create the navigation links between all the pages,Task,To Do,Final Project (IO-FIT),,,,,To Do
+Creating my own plan,Task,To Do,Final Project (IO-FIT),,,"As a user i want to be able to create my own workout plan so i can workout according to my goals.
+
+*Sub Task:*
+
+* Add an add button to the workouts screen, when clicked it lets the user to create his own plan by adding exercises from the workout list.",customized workout plan,To Do
+Creating the vision video,Task,Done,Final Project (IO-FIT),22/02/2024 00:00,04/03/2024 00:00,,Studying and Designing,Done
+customized workout plan,Epic,To Do,Final Project (IO-FIT),,,,,To Do
+Design our screens in React Native,Task,Done,Final Project (IO-FIT),05/03/2024 00:00,09/03/2024 00:00,,Studying and Designing,Done
+Designing the screens,Task,Done,Final Project (IO-FIT),22/02/2024 00:00,04/03/2024 00:00,,Studying and Designing,Done
+Detailed explanation for each exercise,Task,To Do,Final Project (IO-FIT),,,"As a user, I would like to receive a written explanation of each exercise so that I can understand the exercise before performing it.
+
+*Sub task*
+
+* find reliable explanation about the exercise and put a reference to it in the exercise page.",Exercises library,To Do
+Development notifications,Task,To Do,Final Project (IO-FIT),,,"As a user, I want to receive notifications about key points in my development, such as a significant improvement in the performance of a particular exercise or significant progress in muscle mass, so that I can celebrate achievements and stay motivated.",Progress,To Do
+Exercises library,Epic,To Do,Final Project (IO-FIT),,,"
+
+
+
+",,To Do
+Favorites,Task,To Do,Final Project (IO-FIT),,,"As a user, I want to save favorite exercises so that I can easily access them in future workouts.
+
+*Sub task*
+
+* for each exercise in the library add a button when click it saves the exercise as favorite
+* add a category of favorites. ",Exercises library,To Do
+Finish the design of all the pages (final touches),Task,In Progress,Final Project (IO-FIT),,,,,In Progress
+Finish the exercise list and the classification by difficulty levels,Task,In Progress,Final Project (IO-FIT),,,,,In Progress
+Interactive graph,Task,To Do,Final Project (IO-FIT),,,"As a user, I want to see interactive graphs showing my progress so that I can visually track performance changes over time.",Progress,To Do
+Learning Flutterflow (a new tool to help you design in Flutter),Task,Done,Final Project (IO-FIT),12/05/2024 00:00,22/05/2024 00:00,,Studying and Designing,Done
+Learning how to design in Flutter,Task,Done,Final Project (IO-FIT),10/03/2024 00:00,13/03/2024 00:00,,Studying and Designing,Done
+Learning the basics of React Native,Task,Done,Final Project (IO-FIT),05/03/2024 00:00,09/03/2024 00:00,,Studying and Designing,Done
+Login via Firebase auth,Task,In Progress,Final Project (IO-FIT),,,,,In Progress
+Plan can be edited,Task,To Do,Final Project (IO-FIT),,,"As a user i want that the workout plan will be able to be edited so i can make my plan more fitted to me by deleting or adding exercises.
+
+*Sub task*
+
+* for each plan add an edit button. by clicking it it lets the user to add and delete exercises",customized workout plan,To Do
+Progress,Epic,To Do,Final Project (IO-FIT),,,,,To Do
+Progress reports,Task,To Do,Final Project (IO-FIT),,,,Progress,To Do
+Search for an exercise,Task,To Do,Final Project (IO-FIT),,,"As a user, I want to search for exercises by category so that I can find the exercises that are relevant to me.
+
+*Sub task*
+
+* add search bar.
+* add categories for each body part
+* add the logic so when the user try to find an exercise using the search bar or click on of the categories the list of exercises is being filtered for the requested exercises  ",Exercises library,To Do
+Seeing improvments,Task,To Do,Final Project (IO-FIT),,,"As a user, I want to receive advanced statistical analyzes of my performance in each exercise, including weak points and areas for improvement, so that I can maximize the benefits of training.",Progress,To Do
+Simulate one training workout,Task,To Do,Final Project (IO-FIT),,,,,To Do
+Start building logics for the progress page (how to analyze the data),Task,To Do,Final Project (IO-FIT),,,,,To Do
+Studying and Designing,Epic,To Do,Final Project (IO-FIT),,,,,To Do
+Suggested exercises,Task,To Do,Final Project (IO-FIT),,,"As a user i want to see suggested exercises so i can make my workout more diverse.
+
+*Sub task*
+
+* classify the exercises so the app could suggest the user new exercise depend to his workout plan.",customized workout plan,To Do
+Tracking personal data,Task,To Do,Final Project (IO-FIT),,,,Progress,To Do
+Validation (login/register),Task,To Do,Final Project (IO-FIT),,,,,To Do
+Variety of exercises to choose from,Task,To Do,Final Project (IO-FIT),,,"As a user i want to have a variety of exercises to choose from so my plan will be more challenging.
+
+*Sub task*
+
+* create huge exercise list.",customized workout plan,To Do
+View the library,Task,To Do,Final Project (IO-FIT),,,"As a user, I want to view a library of exercises so that I can learn new exercises.
+
+*Sub task*
+
+* create a list of the exercises.",Exercises library,To Do
+Work on how to make a dynamic list,Task,To Do,Final Project (IO-FIT),,,,,To Do

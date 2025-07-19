@@ -1,0 +1,26 @@
+קישור לג'ירה:
+https://itamar248.atlassian.net/jira/software/projects/IOFIT/boards/1/timeline
+
+קישור לגיט:
+https://github.com/cohenitamar/Final/tree/main
+
+שם הפרוייקט: IO FIT
+קוד פרוייקט: 024
+שמות:
+
+איתמר כהן 207700626
+אורי ארד  318877818
+
+cohenit2 
+aradori
+
+קוד קבוצה: 89385-32	
+
+קישור לסרטון הפרוייקט:
+https://www.youtube.com/watch?v=o_VbB6O2x9Y
+
+קישור לסרטון בדיקת המודל בלייב:
+https://www.youtube.com/watch?v=oRyUcxySlyQ
+
+קישור למצגת ארכיטקטורה:
+https://drive.google.com/file/d/1VmTmfS6FPRi5g5tJkV1fpMr0BjhpnDMZ/view?usp=sharing
